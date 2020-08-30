@@ -18,6 +18,7 @@ But some consider spending a **minimal amount real money** to be worthwhile, as 
 
 ### VIP Level 1
 Benefit: Permanently enables **Instant Raid** - this can save hours when farming for equipment to **promote** your heros.  
+
 | Cost     | 1.99 | 
 |-----|-----|
 | Currency | AUD   |
@@ -25,6 +26,7 @@ Benefit: Permanently enables **Instant Raid** - this can save hours when farming
 
 ### Valkyrie's Favor
 Benefit: .... useful in the early stages (??may only need one week??)
+
 | **Cost**     | $3.29 |
 |:-------------|:-----:|
 | **Currency** | AUD   |
