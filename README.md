@@ -10,26 +10,15 @@ Enthusism is as important as experience. We will help build you into a player va
 Hero Wars is reasonably practical to **Play For Free** (at least up to level 40 so far).
 But some consider spending a **minimal amount real money** to be worthwhile, as discussed below.
 
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-
-
-
 ### VIP Level 1
-Benefit: Permanently enables **Instant Raid** - this can save hours when farming for equipment to **promote** your heros.  
-
-| Cost     | 1.99 | 
-|-----|-----|
-| Currency | AUD   |
-
+Cost: One-time $1.99 AUD; <br>
+Benefit: Enables **Instant Raid** - this can save hours when farming for equipment to **promote** your heros.  
+Period: Permanent
 
 ### Valkyrie's Favor
-Benefit: .... useful in the early stages (??may only need one week??)
-
-| **Cost**     | $3.29 |
-|:-------------|:-----:|
-| **Currency** | AUD   |
+Cost: Weekly $3.29 AUD; <br>
+Benefit: Useful in the early stages (mainly for 5x combat speed???) 
+Period: Some suggest its useful for two weeks (currently not clear on the exit condition??)
 
 ## Emeralds strategy
 The priority for your emeralds is to spend them on powering up your Titans after you've joined a guild.
