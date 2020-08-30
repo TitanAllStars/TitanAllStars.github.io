@@ -9,12 +9,17 @@ With Hero Wars its reasonably practical to **Play For Free** (at least up to lev
 But some consider spending a **minimal amount real money** to be worthwhile, as discussed below.
 
 ### VIP Level 1
-Cost: One time $1.99 AUD.  
 Benefit: Permanently enables **Instant Raid** - this can save hours when farming for equipment to **promote** your heros.  
+| **Cost**     | $1.99 | 
+|:-------------|:-----:|
+| **Currency** | AUD   |
+
 
 ### Valkyrie's Favor
-Cost: Weekly $3.29 AUD.  
 Benefit: .... useful in the early stages (??may only need one week??)
+| **Cost**     | $3.29 | 
+|:-------------|:-----:|
+| **Currency** | AUD   |
 
 ## Emeralds strategy
 The priority for your emeralds is to spend them on powering up your Titans after you've joined a guild.
