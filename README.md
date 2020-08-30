@@ -1,4 +1,4 @@
-# TitanAllStars guild info site (gh-pages)
+# TitanAllStars guild info site
 Welcome to the Titan All Stars!!!!
 
 Please introduce yourself in the Guild Chat, i.e. How long your been playing?  What you want to get out of being a member? 
