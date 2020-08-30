@@ -45,7 +45,7 @@ The attached Quest actually makes you extra emeralds (in this case an extra 500)
 * [Guide of each hero in the game](https://hero-wars.fandom.com/wiki/Guide_of_Each_Hero_In_The_Game)
 
 ## Titans
-* Levelling up from 1 to 51 you can choose to spend either 5,130 emeralds or 25,650 potions. The former is easier, so hoard your emeralds for this.
+* Levelling up from 1 to 51 you can choose to spend either 5,130 emeralds or 25,650 potions. The former is easier, so **hoard your emeralds for levelling titans**.
 * [Titan Beginners Guide](https://hero-wars.fandom.com/wiki/Titan%27s_Beginner_Guide)
 * [Everything you need to know about titans](https://www.levelwinner.com/hero-wars-nexters-titans-guide-everything-you-need-to-know-about-titans/)
 * [In-Depth Guide to Titan Levelling – Part 1](https://www.bluestacks.com/blog/game-guides/hero-wars-mens-choice-epic-fantasy-rpg/hw-titan-levelling-guide-part1-en.html)
