@@ -27,7 +27,7 @@ Period: Some suggest its useful for two weeks (currently not clear on the exit c
 The priority for your emeralds is to spend them on powering up your Titans after you've joined a guild.
 
 **Don't...**
-* Opening extra chests in Tower.  As a general rule, only open one-of-three Tower Chests, unless you see something particularly needful.  
+* Open extra chests in Tower.  As a general rule only open **one-of-three** Tower Chests, unless you see something particularly needful.  
 
 **Do...**
 * Look for the red-dot on green button shown below...  
