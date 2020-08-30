@@ -54,19 +54,19 @@ The attached Quest actually makes you extra emeralds (in this case an extra 500)
 
 ## Campaign
 * Most of your early work
-* [Campaign](https://herowars.zendesk.com/hc/en-us/articles/360025163314-Campaign) - update: "Raid х10" requires VIP 5  
+* [Game info](https://herowars.zendesk.com/hc/en-us/articles/360025163314-Campaign) - update: "Raid х10" requires VIP 5  
 
 ## Tower
 * Run your teams with extra healers, since damage carries over from level to level and doesn't reset until the next day.
-* [Game description](https://herowars.zendesk.com/hc/en-us/articles/218469648-Tower)
+* [Game info](https://herowars.zendesk.com/hc/en-us/articles/218469648-Tower)
 
 ## Arena
-[Arena](https://herowars.zendesk.com/hc/en-us/articles/218900067-Arena-)
+* [Game info](https://herowars.zendesk.com/hc/en-us/articles/218900067-Arena-)
 
 ## Outland
-nothing yet
+* nothing yet
 
 # Info request
-If you have any personal tips, or think anything in the above links is particularly important that should be pull out to this page, discuss in the Guild Chat and then pvtmsg  the consensus to Pallus for update here.  
+If you have any personal tips, or think anything in the above links is particularly important that should be pull out to this page, please first discuss in the Guild Chat and then pvtmsg the consensus to Pallus for update here.  
 
  
