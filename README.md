@@ -1,4 +1,4 @@
-# TitanAllStars guild info site (x)
+# TitanAllStars guild info site (aa)
 Welcome to the Titan All Stars!!!!
 
 Please introduce yourself in the Guild Chat, i.e. How long your been playing?  What you want to get out of being a member? 
@@ -10,11 +10,19 @@ Enthusism is as important as experience. We will help build you into a player va
 Hero Wars is reasonably practical to **Play For Free** (at least up to level 40 so far).
 But some consider spending a **minimal amount real money** to be worthwhile, as discussed below.
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+
+
+
 ### VIP Level 1
 Benefit: Permanently enables **Instant Raid** - this can save hours when farming for equipment to **promote** your heros.  
-| **Cost**     | $1.99 | 
-|:-------------|:-----:|
-| **Currency** | AUD   |
+| **Cost**     | $1.99 |     
+|:-------------|:-----:|     
+| **Currency** | AUD   |    
 
 
 ### Valkyrie's Favor
