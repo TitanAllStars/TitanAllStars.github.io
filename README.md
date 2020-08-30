@@ -12,13 +12,13 @@ But some consider spending a **minimal amount real money** to be worthwhile, as 
 
 ### VIP Level 1
 Cost: One-time $1.99 AUD; <br>
-Benefit: Enables **Instant Raid** - this can save hours when farming for equipment to **promote** your heros.  
-Period: Permanent
+Benefit: Enables **Instant Raid** - this can save hours when farming for equipment to **promote** your heros.  <br>
+Period: Permanent <br>
 
 ### Valkyrie's Favor
 Cost: Weekly $3.29 AUD; <br>
-Benefit: Useful in the early stages (mainly for 5x combat speed???) 
-Period: Some suggest its useful for two weeks (currently not clear on the exit condition??)
+Benefit: Useful in the early stages (mainly for 5x combat speed???) <br>
+Period: Some suggest its useful for two weeks (currently not clear on the exit condition??) <br>
 
 ## Emeralds strategy
 The priority for your emeralds is to spend them on powering up your Titans after you've joined a guild.
