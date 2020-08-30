@@ -1,4 +1,4 @@
-# [TitanAllStars guild info site](https://titanallstars.github.io/)
+# [TitanAllStars guild info](https://titanallstars.github.io/)
 **Welcome to Titan All Stars!!!!**
 
 First, [choose a Titan name](https://www.theoi.com/greek-mythology/titans.html) and set it by clicking your profile icon in top right of screen.
