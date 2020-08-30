@@ -1,7 +1,9 @@
 # [TitanAllStars guild info site](https://titanallstars.github.io/)
 **Welcome to Titan All Stars!!!!**
 
-Please introduce yourself in the Guild Chat...
+First, [choose a Titan name](https://www.theoi.com/greek-mythology/titans.html) and set it by clicking your profile icon in top right of screen.
+
+Then please introduce yourself in the Guild Chat...
 * How long your been playing?  
 * What you want to get out of being a member? 
 We welcome newbies and like to help you get the most out of the game.  
