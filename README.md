@@ -45,6 +45,8 @@ The attached Quest actually makes you extra emeralds (in this case an extra 500)
 ## Heros
 * [Description of all heros](https://wisegeek.ru/aad/khroniki-khaosa)
 * [Guide of each hero in the game](https://hero-wars.fandom.com/wiki/Guide_of_Each_Hero_In_The_Game)
+* [Combat energy generation](https://herowars.zendesk.com/hc/en-us/articles/360008903533-Energy-generation-system)
+* [Combat Defence/Penetration](https://herowars.zendesk.com/hc/en-us/articles/360039320594-Armor-Magic-Defense-and-Armor-Magic-Penetration-)
 
 ## Titans
 * Levelling up from 1 to 51 you can choose to spend either 5,130 emeralds or 25,650 potions. The former is easier, so **hoard your emeralds for levelling titans**.
