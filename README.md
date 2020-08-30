@@ -22,6 +22,6 @@ The priority for your emeralds is to spend them on powering up your Titans after
 Don't spend emeralds on...
 * Opening extra chests in Tower.  As a general rule, only open one of the three Tower Chests, unless you see something particularly needful.  
 
-Do look for the red-dot on green button shown below.  The attached Quest actually makes you 500 emeralds - easy money.
+* Do look for the red-dot on green button shown below.  The attached Quest actually makes you 500 emeralds - easy money.
 ![Chest Buttons](https://herowars.zendesk.com/hc/article_attachments/360039180114/mceclip0.png)
 ![Chest Quest](https://herowars.zendesk.com/hc/article_attachments/360039180134/mceclip1.png)
