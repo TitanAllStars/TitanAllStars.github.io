@@ -5,8 +5,8 @@ Please introduce yourself in the Guild Chat, i.e. How long your been playing?  W
 We welcome newbies and like to help you get the most out of the game.  Enthusism is more important than experience.
 
 ## Real money spending strategy
-With Hero Wars its reasonably practical to Play For Free without any hidden traps (at least up to level 40 so far).
-But some consider a few minimal-spend of real money to be worthwhile.
+With Hero Wars its reasonably practical to **Play For Free** (at least up to level 40 so far).
+But some consider spending a **minimal amount real money** to be worthwhile, as discussed below.
 
 ### VIP Level 1
 Cost: One time $1.99 AUD.  
