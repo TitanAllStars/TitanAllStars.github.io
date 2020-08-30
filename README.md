@@ -2,8 +2,9 @@
 Welcome to the Titan All Stars!!!!
 
 Please introduce yourself in the Guild Chat, i.e. How long your been playing?  What you want to get out of being a member? 
-We welcome newbies and like to help you get the most out of the game.  Enthusism is as important than experience.
-We will help build you into a player valuable to the team.
+We welcome newbies and like to help you get the most out of the game.  
+
+Enthusism is as important than experience. We will help build you into a player valuable to the team.
 
 ## Real money spending strategy
 With Hero Wars its reasonably practical to **Play For Free** (at least up to level 40 so far).
