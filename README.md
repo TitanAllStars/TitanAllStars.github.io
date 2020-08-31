@@ -25,16 +25,14 @@ Cost: Weekly $3.29 AUD; <br>
 Benefit: Useful in the early stages (mainly for 5x combat speed???) <br>
 Period: Some suggest its useful for two weeks (currently not clear on the exit condition??) <br>
 
-## Emeralds strategy
-The priority for your emeralds is to spend them on powering up your Titans after you've joined a guild.
-
-**Don't...**
-* Open extra chests in Tower.  As a general rule only open **one-of-three** Tower Chests, unless you see something particularly needful.  
-
-**Do...**
-* Look for the red-dot on green button shown below...  
+## Emeralds
+* [Where to spend your emeralds](https://www.youtube.com/watch?v=cYDR0TkNnDU&feature=emb_rel_pause)
+* The guild suggests you priority should be to spend your emeralds on powering up your Titans. This really helps in the Guild Wars, 
+and also getting further through the dungeon and the Spark buffs you get from that.   
+* Avoid opening extra chests in Tower.  As a general rule only open **one-of-three** Tower Chests, unless you see something particularly needful.  
+* Do look for the red-dot on green buttons shown below...  
 ![Chest Buttons](https://herowars.zendesk.com/hc/article_attachments/360039180114/mceclip0.png)      
-The attached Quest actually makes you extra emeralds (in this case an extra 500)...      
+which returnsmore emeralds than you spend through the attached Quest (in this case an extra 500)...      
 ![Chest Quest](https://herowars.zendesk.com/hc/article_attachments/360039180134/mceclip1.png)
 
 ## General
