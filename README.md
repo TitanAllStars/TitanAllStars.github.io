@@ -61,7 +61,8 @@ Unless otherwise arranged with elder members, candidates-to-be-dropped will be p
 
 A leave-of-absense can be requested (i.e. voluntarily/temporarily give up your slot). A policy of maintaining open slots will assist your return.
 
-If you a dropped for lack of activity, feel free to reapply when you have more time to commit. 
+Membership management will be frequent, but particularly on Tuesday to clear out what seem weekend-only players.
+If you are dropped for lack of activity, feel free to rejoin for the periods when you have more time to commit. 
 
 # General info
 
