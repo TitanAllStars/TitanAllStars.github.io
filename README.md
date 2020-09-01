@@ -5,7 +5,7 @@
 **Welcome to Titan All Stars!!!!** playing on server 20 "Tempered Steel".  
 
 Newbies welcome. We're happy the help you get the most out of the game.  <br>
-then swing by the Guild Chat and introduce yourself...
+Swing by our Guild Chat and introduce yourself...
 * How long your been playing?  
 * What you want to get out of being a member? 
 
