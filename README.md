@@ -29,7 +29,7 @@ Period: Some suggest its useful for two weeks (currently not clear on the exit c
 Benefit: Helps get early Arifact Coins and Cores for upgrading heros.  Also 5x combat speed benefits practical use of your time.  <br>
 
 ## Titanite
-* The ideal amount of titanite to mine is 150. You have two daily quests with targets of 75 and 150, which each return you ONE Titan Summoning Sphere. Doing beyond 150 a day moves you into harder territory with less powered titans. 
+* The ideal amount of titanite to mine is 150. You have two daily quests with targets of 75 and 150, which each return you ONE Titan Summoning Sphere. Doing beyond 150 a day moves you into harder territory with less sphere power-ups.
 * The guild has a cummulative target of 3000 which returns you THREE Titan Summoning Spheres - easy to achieve if 20 of the 30 guild members do their part.
 * This is a vituous cycle. The additional titan levelling from the extra Summoning Spheres allows you to more easily mine titanite.
 * Levelling up your titans provides "Sparks" that are used to power-up your heros. 
