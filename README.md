@@ -4,9 +4,8 @@
 
 **Welcome to Titan All Stars!!!!** playing on server 20 "Tempered Steel".  
 
-Ideally, you'll enjoy **[choose a Titan name](https://www.theoi.com/greek-mythology/titans.html)** (set in-game by clicking your profile icon in top left)
-
-Then swing by the Guild Chat and introduce yourself...
+Ideally you'll enjoy **[choose a Titan name](https://www.theoi.com/greek-mythology/titans.html)** (set in-game by clicking your profile icon in top left)
+then swing by the Guild Chat and introduce yourself...
 * How long your been playing?  
 * What you want to get out of being a member? 
 Newbies welcome and we'd like to help you get the most out of the game.  
