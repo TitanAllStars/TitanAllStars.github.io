@@ -59,6 +59,9 @@ Unless otherwise arranged with elder members, candidates-to-be-dropped will be p
 1. Player name not changed from default - not engaged in the game
 1. Low titanite total - lack of interest in helping your fellow members
 
+Of course a leave-of-absense can be requested (i.e. voluntarily give up your slot).  
+Maintaining open slots will assist your return.
+
 # General info
 
 ## Beginners
