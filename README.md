@@ -9,9 +9,9 @@ Swing by our Guild Chat and introduce yourself...
 * How long your been playing?  
 * What you want out of your guild? 
 
-Enthusism is as important as experience. We'll help build you into a player valuable to the team.
-
 If accepted to join, in keeping with the theme, it would be nice if you **[choose a Titan name](https://www.theoi.com/greek-mythology/titans.html)** (set in-game by clicking your profile icon in top left) <br>
+
+Enthusism is as important as experience. We'll help build you into a player valuable to the team, and kick that off with these tips...
 
 ## Real money strategy
 Hero Wars is reasonably practical to **Play For Free** (at least up to level 40 I've done so far).
