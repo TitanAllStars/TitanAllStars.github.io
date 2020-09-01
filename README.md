@@ -39,7 +39,7 @@ Benefit: Helps get early Arifact Coins and Cores for upgrading heros.  Also 5x c
 * Specifically, the guild requests you prioritize spending emeralds on powering-up your Titans. This helps the virtuous cycle farming titanite, and also helps greatly in the Guild Wars - the higher we place the quicker you can get a Hero Skin power-up from the Guild War Shop.     
 * Do also open three chests up to the free one after beating and Outlands Boss.  The hero artifact power-ups from this are always in short supply, and will also help the Guild War.
 * Minimise emerald to coin conversions - unless some special event gives extra bonuses.
-* Avoid opening extra chests in Tower.  As a general rule only open ONe-OF-THREE Tower Chests, unless you see something particularly needful.  
+* Avoid opening extra chests in Tower.  As a general rule only open ONE-OF-THREE Tower Chests, unless you see something particularly needful.  
 * Do look for the red-dot on emerald buttons as shown below...  
 ![Chest Buttons](https://herowars.zendesk.com/hc/article_attachments/360039180114/mceclip0.png)      
 which returns more emeralds than you spend through the attached Quest (in this case an extra 500)...      
