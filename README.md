@@ -2,7 +2,7 @@
 
 ## Welcome
 
-**Welcome to Titan All Stars!!!!** playing on seerver 20 "Tempered Steel".  
+**Welcome to Titan All Stars!!!!** playing on server 20 "Tempered Steel".  
 
 Ideally, you'll enjoy **[choose a Titan name](https://www.theoi.com/greek-mythology/titans.html)** (set in-game by clicking your profile icon in top left)
 
