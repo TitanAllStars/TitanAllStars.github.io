@@ -1,18 +1,21 @@
 # [TitanAllStars guild info](https://titanallstars.github.io/)
-**Welcome to Titan All Stars!!!!**
 
-First, [choose a Titan name](https://www.theoi.com/greek-mythology/titans.html) and set it by clicking your profile icon in top right of screen.
+**Welcome to Titan All Stars!!!!** playing on seerver 20 "Tempered Steel".  
 
-Then please introduce yourself in the Guild Chat...
+## Welcome
+
+Ideally, you'll **[choose a Titan name](https://www.theoi.com/greek-mythology/titans.html)** (set it in game by clicking your profile icon in top right of screen.)
+
+Then swing by the Guild Chat and introduce yourself...
 * How long your been playing?  
 * What you want to get out of being a member? 
-We welcome newbies and like to help you get the most out of the game.  
+Newbies welcome and we'd like to help you get the most out of the game.  
 
 Enthusism is as important as experience. We will help build you into a player valuable to the team.
 
-## Real money spending strategy
+## Real money strategy
 Hero Wars is reasonably practical to **Play For Free** (at least up to level 40 so far).
-But some consider spending a **minimal amount real money** to be worthwhile, as discussed below.
+Some consider spending a **minimal amount** of real money to be worthwhile, as discussed below.
 
 ### VIP Level 1
 Cost: One-time $1.99 AUD; <br>
@@ -22,7 +25,7 @@ Period: Permanent <br>
 
 ### Valkyrie's Favor
 Cost: Weekly $3.29 AUD; <br>
-Benefit: Useful in the early stages (mainly for 5x combat speed???) <br>
+Benefit: Helps get early Arifact Coins and Cores for upgrading heros.  Also 5x combat speed benefits practical use of your time.  <br>
 Period: Some suggest its useful for two weeks (currently not clear on the exit condition??) <br>
 
 ## Emeralds
