@@ -36,7 +36,7 @@ Benefit: Helps get early Arifact Coins and Cores for upgrading heros.  Also 5x c
 
 ## Emeralds
 * Generally, here is [where to spend your emeralds](https://www.youtube.com/watch?v=cYDR0TkNnDU&feature=emb_rel_pause)
-* Specifically, our guild requests you prioritize spending emeralds on powering-up your Titans. Bump'em up before hitting the Dungeon.  This helps a virtuous cycle of farming titanite to hit your 150 titanate quota.  Stronng titans also greatly assist the Guild Wars, where the higher we place the quicker you receive your Hero Skin power-up from the Guild War Shop.     
+* Specifically, our guild requests you prioritize spending emeralds on powering-up your Titans. Bump'em up before hitting the Dungeon.  This helps a virtuous cycle of farming titanite to hit your 150 titanate quota.  Strong titans also greatly assist the Guild Wars, where the higher we place the quicker you receive your Hero Skin power-up from the Guild War Shop.     
 * Do also open three chests up per Outland Boss win, to get additional Artifact Coins.  Use those Artifact Coins to power-up your primary team's first artifacts to 100%-Activation. 
 * Minimise emerald to coin conversions - unless some special event gives extreme bonuses.
 * Avoid opening extra chests in Tower.  As a general rule only open ONE-OF-THREE Tower Chests, unless you see something particularly needful.  
