@@ -9,7 +9,7 @@ Swing by our Guild Chat and introduce yourself...
 * How long your been playing?  
 * What you want out of your guild? 
 
-Enthusism is as important as experience. We will help build you into a player valuable to the team.
+Enthusism is as important as experience. We'll help build you into a player valuable to the team.
 
 If accepted to join, in keeping with the theme, it would be nice if you **[choose a Titan name](https://www.theoi.com/greek-mythology/titans.html)** (set in-game by clicking your profile icon in top left) <br>
 
