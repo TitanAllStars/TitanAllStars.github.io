@@ -54,10 +54,10 @@ To this end, there need to be some criteria with which to leave those slots open
 The tables located under **Gifts > View** provide the best measure of performance.
 
 Unless otherwise arranged with elder members, candidates-to-be-dropped will be prioritised as follows...
-1. Low Activity per rolling weekly Total - indicates your not playing the game
-1. Early Activity followed by no activity - indicates your not playing the game
-1. Player name not changed from default - indicates lack of commitment to the game
-1. Low titanite total - indicates lack of interest in our guild
+1. Low Activity per rolling weekly Total - not playing the game
+1. Early Activity followed by no activity - not playing the game
+1. Player name not changed from default - not enegaged in the game
+1. Low titanite total - lack of interest in helping your fellow members
 
 # General info
 
