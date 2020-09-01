@@ -51,7 +51,7 @@ Hero Wars is easy to free-to-play - so there are a lot of transient sightseers, 
 We would like to leave slots free (5?) for new blood (beginner or experienced) who are ethusiastic about progressing in the game.
 To this end, there need to be some criteria with which to leave those slots open.
 
-The main point of measure is located under **Gifts > View.**  
+The main point of measure is located under **Gifts > View.**
 Unless otherwise arranged with the elder members, candidates to be dropped will be prioritised as follows...
 * Low Activity per rolling weekly Total 
 * Early Activity followed by no activity
