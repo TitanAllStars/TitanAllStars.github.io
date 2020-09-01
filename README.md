@@ -79,6 +79,6 @@ which returns more emeralds than you spend through the attached Quest (in this c
 * nothing yet
 
 # Info request
-If you have any personal tips, or think anything in the above links is particularly important that should be pull out to this page, please first discuss in the Guild Chat and then pvtmsg the consensus to Pallus for update here.  
+If you have any personal tips, or think anything linked above has something of particular important to note on this page, please first discuss in the Guild Chat and then msg Pallus to update here.  
 
  
