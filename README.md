@@ -7,7 +7,7 @@
 Newbies welcome. We're happy the help you get the most out of the game.  <br>
 Swing by our Guild Chat and introduce yourself...
 * How long your been playing?  
-* What you want to get out of being a member? 
+* What you want out of a guild? 
 
 Enthusism is as important as experience. We will help build you into a player valuable to the team.
 
