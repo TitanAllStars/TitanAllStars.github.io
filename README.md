@@ -50,13 +50,13 @@ which returns more emeralds than you spend through the attached Quest (in this c
 Hero Wars is easy to free-to-play - so there are a lot of transient sightseers, or players that make a start and then lose interest.
 We would like to leave slots free (5?) for new blood (beginner or experienced) who are ethusiastic about progressing in the game.
 To this end, there need to be some criteria with which to leave those slots open.
+The tables located under **Gifts > View** provide the best measure of performance.
 
-The main point of measure is located under **Gifts > View.**
-Unless otherwise arranged with the elder members, candidates to be dropped will be prioritised as follows...
-* Low Activity per rolling weekly Total 
-* Early Activity followed by no activity
-* Low titanite total 
-* Player name in the default assigned.
+Unless otherwise arranged with elder members, candidates-to-be-dropped will be prioritised as follows...
+1. Low Activity per rolling weekly Total 
+1. Early Activity followed by no activity
+1. Low titanite total 
+1. Player name in the default assigned.
 
 
 # General info
