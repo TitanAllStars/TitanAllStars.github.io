@@ -45,7 +45,23 @@ Benefit: Helps get early Arifact Coins and Cores for upgrading heros.  Also 5x c
 which returns more emeralds than you spend through the attached Quest (in this case an extra 500)...      
 ![Chest Quest](https://herowars.zendesk.com/hc/article_attachments/360039180134/mceclip1.png)
 
-## General
+##  Member performance
+
+Hero Wars is easy to free-to-play - so there are a lot of transient sightseers, or players that make a start and then lose interest.  
+We would like to leave slots free (5?) for new blood (newbie or experienced) who are ethusiastic about progressing in the game.
+To this end, there need to be some criteria with which to leave those slots open.
+
+The main measuring point is found under **Gifts > View.**  
+Unless otherwise arranged with the elder members, candidates to be dropped will be prioritised as follows...
+* Low Activity per rolling weekly Total 
+* Early Activity followed by no activity
+* Low titanite total 
+* Player name in the default assigned.
+
+
+# General info
+
+## Beginners
 * [MicahFett's Beginner's Guide to Hero Wars](https://www.reddit.com/r/HeroWarsApp/comments/dvd2ay/micahfetts_beginners_guide_to_hero_wars/) 
 * [18 best tips for beginners](https://gameloid.com/hero-wars-guide-tips-for-beginners-best-heroes/)
 * [Top 5 mistakes](https://herowarsinfo.com/beginner-guides/hero-wars-top-5-mistakes/)
@@ -77,19 +93,6 @@ which returns more emeralds than you spend through the attached Quest (in this c
 
 ## Outland
 * nothing yet
-
-#  Member performance
-
-Hero Wars is easy to free-to-play - so there are a lot of transient sightseers, or players that make a start and then lose interest.  
-We would like to leave slots free (5?) for new blood (newbie or experienced) who are ethusiastic about progressing in the game.
-To this end, there need to be some criteria with which to leave those slots open.
-
-The main measuring point is found under **Gifts > View.**  
-Unless otherwise arranged with the elder members, candidates to be dropped will be prioritised as follows...
-* Low Activity per rolling weekly Total 
-* Early Activity followed by no activity
-* Low titanite total 
-* Player name in the default assigned.
 
 # Info request
 If you have any personal tips, or think anything linked above has something of particular important to note on this page, please first discuss in the Guild Chat and then msg Pallus to update here.  
