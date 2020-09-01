@@ -4,13 +4,14 @@
 
 **Welcome to Titan All Stars!!!!** playing on server 20 "Tempered Steel".  
 
-Ideally you'll enjoy **[choose a Titan name](https://www.theoi.com/greek-mythology/titans.html)** (set in-game by clicking your profile icon in top left) <br>
+Newbies welcome. We're happy the help you get the most out of the game.  <br>
 then swing by the Guild Chat and introduce yourself...
 * How long your been playing?  
 * What you want to get out of being a member? 
-Newbies welcome and we'd like to help you get the most out of the game.  
 
 Enthusism is as important as experience. We will help build you into a player valuable to the team.
+
+If accepted to join, in keeping with the theme, it would be nice if you **[choose a Titan name](https://www.theoi.com/greek-mythology/titans.html)** (set in-game by clicking your profile icon in top left) <br>
 
 ## Real money strategy
 Hero Wars is reasonably practical to **Play For Free** (at least up to level 40 I've done so far).
