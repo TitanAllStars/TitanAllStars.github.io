@@ -29,7 +29,7 @@ Period: Some suggest its useful for two weeks (currently not clear on the exit c
 Benefit: Helps get early Arifact Coins and Cores for upgrading heros.  Also 5x combat speed benefits practical use of your time.  <br>
 
 ## Titanite
-* The ideal amount of titanite to mine is 150. You have two daily quests with targets of 75 and 150, which EACH return you ONE Titan Summoning Sphere. Doing beyond 150 a day moves you into harder territory with less sphere power-ups.
+* The ideal amount of titanite to aim for is 150. You have two daily quests with targets of 75 and 150, which EACH return you ONE Titan Summoning Sphere. Doing beyond 150 a day moves you into harder territory with less sphere power-ups.
 * The guild has a cummulative target of 3000 which returns you THREE Titan Summoning Spheres - easy to achieve if 20 of the 30 guild members do their part. Lets help each other get there.
 * This is a vituous cycle. The additional titan levelling from the extra Summoning Spheres allows you to more easily mine titanite.
 * Levelling up your titans provides "Sparks" to power-up your heros' Gift Of The Elements. 
@@ -37,7 +37,7 @@ Benefit: Helps get early Arifact Coins and Cores for upgrading heros.  Also 5x c
 ## Emeralds
 * Generally, here is [where to spend your emeralds](https://www.youtube.com/watch?v=cYDR0TkNnDU&feature=emb_rel_pause)
 * Specifically, our guild requests you prioritize spending emeralds on powering-up your Titans. Bump'em up before hitting the Dungeon.  This helps a virtuous cycle of farming titanite to hit your 150 titanate quota.  Strong titans also greatly assist the Guild Wars, where the higher we place the quicker you receive your Hero Skin power-up from the Guild War Shop.     
-* Do also open three chests up per Outland Boss win, to get additional Artifact Coins.  Use those Artifact Coins to power-up your primary team's first artifacts to 100%-Activation. 
+* Do also open three chests up per Outland Boss win, to get additional Artifact Coins.  Use those Artifact Coins to power-up your A-Team's first artifacts to 100%-Activation. 
 * Minimise emerald to coin conversions - unless some special event gives extreme bonuses.
 * Avoid opening extra chests in Tower.  As a general rule only open ONE-OF-THREE Tower Chests, unless you see something particularly needful.  
 * Do look for the red-dot on emerald buttons as shown below...  
@@ -77,6 +77,19 @@ which returns more emeralds than you spend through the attached Quest (in this c
 
 ## Outland
 * nothing yet
+
+#  Member performance
+
+Hero Wars is easy to free-to-play - so there are a lot of transient sightseers, or players that make a start and then lose interest.  
+We would like to leave slots free (5?) for new blood (newbie or experienced) who are ethusiastic about progressing in the game.
+To this end, there need to be some criteria with which to leave those slots open.
+
+The main measuring point is found under **Gifts > View.**  
+Unless otherwise arranged with the elder members, candidates to be dropped will be prioritised as follows...
+* Low Activity per rolling weekly Total 
+* Early Activity followed by no activity
+* Low titanite total 
+* Player name in the default assigned.
 
 # Info request
 If you have any personal tips, or think anything linked above has something of particular important to note on this page, please first discuss in the Guild Chat and then msg Pallus to update here.  
