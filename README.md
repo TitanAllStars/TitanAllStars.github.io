@@ -1,10 +1,10 @@
 # [TitanAllStars guild info](https://titanallstars.github.io/)
 
-**Welcome to Titan All Stars!!!!** playing on seerver 20 "Tempered Steel".  
-
 ## Welcome
 
-Ideally, you'll **[choose a Titan name](https://www.theoi.com/greek-mythology/titans.html)** (set it in game by clicking your profile icon in top right of screen.)
+**Welcome to Titan All Stars!!!!** playing on seerver 20 "Tempered Steel".  
+
+Ideally, you'll enjoy **[choose a Titan name](https://www.theoi.com/greek-mythology/titans.html)** (set in-game by clicking your profile icon in top left)
 
 Then swing by the Guild Chat and introduce yourself...
 * How long your been playing?  
