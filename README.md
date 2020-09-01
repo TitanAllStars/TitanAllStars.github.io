@@ -49,7 +49,7 @@ which returns more emeralds than you spend through the attached Quest (in this c
 
 The point of a guild is to assist each other to progress through the game.  
 Hero Wars is easy to free-to-play - so there are a lot of transient sightseers, or players that make a start then lose interest.
-We would like to leave slots free (5?) for new blood (beginner or experienced) who are ethusiastic about progressing in the game.
+We would like to leave slots free for new blood (beginner or experienced) who are ethusiastic about progressing in the game.
 To this end, there need to be some criteria with which to leave those slots open.
 The tables located under **Gifts > View** provide the best measure of performance.
 
