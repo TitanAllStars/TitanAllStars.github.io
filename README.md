@@ -14,25 +14,31 @@ Newbies welcome and we'd like to help you get the most out of the game.
 Enthusism is as important as experience. We will help build you into a player valuable to the team.
 
 ## Real money strategy
-Hero Wars is reasonably practical to **Play For Free** (at least up to level 40 so far).
+Hero Wars is reasonably practical to **Play For Free** (at least up to level 40 I've done so far).
 Some consider spending a **minimal amount** of real money to be worthwhile, as discussed below.
 
 ### VIP Level 1
 Cost: One-time $1.99 AUD; <br>
-Benefit: Enables **Instant Raid** - this can save hours when farming for equipment to **promote** your heros.  <br>
 Period: Permanent <br>
+Benefit: Enables **Instant Raid** - this can save hours when farming for equipment to **promote** your heros.  <br>
 ![Instant Raid Buttons](https://herowars.zendesk.com/hc/article_attachments/360041242594/mceclip3.png)
 
 ### Valkyrie's Favor
 Cost: Weekly $3.29 AUD; <br>
-Benefit: Helps get early Arifact Coins and Cores for upgrading heros.  Also 5x combat speed benefits practical use of your time.  <br>
 Period: Some suggest its useful for two weeks (currently not clear on the exit condition??) <br>
+Benefit: Helps get early Arifact Coins and Cores for upgrading heros.  Also 5x combat speed benefits practical use of your time.  <br>
+
+## Titanite
+* The ideal amount of titanite to mine is 150. You have two daily quests with 75 and 150 targets, which each return you ONE Titan Summoning Sphere. Doing beyond 150 in a day squanders the efficiency of double-points from clearing rooms for the first time. 
+* The guild has a cummulative target of 3000 which returns you THREE Titan Summoning Spheres - easy to achieve if 20 of the 30 guild members do their part.
+* This is a vituous cycle. The additional titan levelling from the extra Summoning Spheres allows you to more easily mine titanite.
+* Levelling up your titans provides "Sparks" that are used to power-up your heros. 
 
 ## Emeralds
 * [Where to spend your emeralds](https://www.youtube.com/watch?v=cYDR0TkNnDU&feature=emb_rel_pause)
-* The guild suggests you priority should be to spend your emeralds on powering up your Titans. This really helps in the Guild Wars, 
-and also getting further through the dungeon and the Spark buffs you get from that.   
+* The guild requests you prioritize spending your emeralds on powering up your Titans. This helps the virtuous cycle farming titanite, and also helps greatly in the Guild Wars - the higher we place the quicker you can get a Hero Skin power-up from the Guild War Shop.     
 * Avoid opening extra chests in Tower.  As a general rule only open **one-of-three** Tower Chests, unless you see something particularly needful.  
+* Do open three chests when beating the boss in the Outlands.  The artifact power-ups from this are always in short supply.
 * Do look for the red-dot on green buttons shown below...  
 ![Chest Buttons](https://herowars.zendesk.com/hc/article_attachments/360039180114/mceclip0.png)      
 which returnsmore emeralds than you spend through the attached Quest (in this case an extra 500)...      
