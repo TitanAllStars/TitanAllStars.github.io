@@ -56,8 +56,7 @@ Unless otherwise arranged with elder members, candidates-to-be-dropped will be p
 1. Low Activity per rolling weekly Total 
 1. Early Activity followed by no activity
 1. Low titanite total 
-1. Player name in the default assigned.
-
+1. Player name not changed from default
 
 # General info
 
