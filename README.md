@@ -75,7 +75,7 @@ If you are dropped for lack of activity, do feel free to rejoin for the periods 
 * If you want a run in the War Party, just ask.   
 * The most important thing about being selected for the War Party is reliability.  
 * Its **REALLY BAD** for us if you don't turn up.
-* The War Party is locked-in a day in advance.  If you are not going to be able to attend, **please communicated** to opt-out. 
+* The War Party is locked-in a day in advance.  If you are not going to be able to attend, **please communicate** to opt-out. 
 * Good communication will be viewed very favourably in considering more permanent placement in the War Party.  
 * Show your commitment and reliability to your guild mates by regularly completing you quota of 150 titanite.
 
