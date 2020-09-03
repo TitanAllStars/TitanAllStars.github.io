@@ -19,8 +19,8 @@ Change your in-game name by clicking your profile icon in top left of screen. <b
 Join our **[Discord Chat Server](https://discord.gg/KPpxgdD)** 
 
 ## Real world money
-The elephant in the room is whether games like Hero Wars force you to **Pay To Win**. So far (level 50) it doesn't. <br>
-The general philosophy of the guild is **Free To Play**.  Where is the fun and challenge in just forking over cash. <br>
+The elephant in the room is whether games like Hero Wars force you to **Pay To Win**. So far (level 50) it doesn't. 
+The general philosophy of the guild is **Free To Play**.  Where is the fun and challenge in just forking over cash. 
 Howver if you're going to be spending weeks on the game, a couple of small purchases are suggested...
 
 ### VIP Level 1
