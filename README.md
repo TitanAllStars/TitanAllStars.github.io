@@ -11,15 +11,17 @@ Swing by our **Guild Chat** and introduce yourself...
 
 Enthusism is as important as experience. We'll help build you into a player valuable to the team, and kick that off with these tips...
 
-## Chat server
-Join our **[Discord Chat Server](https://discord.gg/KPpxgdD)** 
-
 ## Get a titan name 
 If you're ammenable, get with the theme and **[choose a Titan name from this list](https://www.theoi.com/greek-mythology/titans.html)** (or elsewhere) <br>
 Change this in-game by clicking your profile icon in top left of screen. <br>
 
+## Chat server
+Join our **[Discord Chat Server](https://discord.gg/KPpxgdD)** 
+
 ## Real world money
-The general philosophy of the guild is **Free To Play**, but a couple of small purchases are suggested...
+The elephant in the room is whether games like Hero Wars force you to **Pay To Win**. So far (level 50) it doesn't. <br>
+The general philosophy of the guild is **Free To Play**.  Where is the fun and challenge in just forking over cash. <br>
+Howver if you're going to be spending weeks on the game, a couple of small purchases are suggested...
 
 ### VIP Level 1
 Benefit: **INSTANT RAID** saves your real-world-time when mining for equipment to promote your heros. <br>
@@ -28,7 +30,7 @@ Period: Permanent <br>
 ![Instant Raid Buttons](https://herowars.zendesk.com/hc/article_attachments/360041242594/mceclip3.png)
 
 ### Valkyrie's Favor
-Benefit: Combat 5x speed up save real-world-time.  Also extra early Arifact Coins and Cores for levelelling artifacts.  <br>
+Benefit: Combat 5x speed-up save real-world-time.  Also extra early Arifact Coins and Cores for levelelling artifacts.  <br>
 Cost: Weekly $3.29 AUD; <br>
 Period: Two weeks <br>
 
