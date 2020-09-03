@@ -69,7 +69,7 @@ If you are dropped for lack of activity, do feel free to rejoin for the periods 
 
 ## Guild War
 * The War Party consists of FIFTEEN "guild champion" battle teams seleected daily.
-* Winning a battle rewards the guild champions with trophies that can buy power-up Hero Skins.
+* Winning a battle rewards guild champions with trophies to buy Hero Skin power-ups.
 * Obviously, to win, the most powerful of the teams are prioritised, but there is also always lower level mop up that gives less powerful players a chance to participate.  
 * In the past, things have broken down when less committed players simply don't turn up for the battle.  Points are lost, league standing lowered and rewards reduced.  This usually occurs with lower level players, so lower level positions potentially open each day.  
 * If you want a run in the War Party, just ask.   
