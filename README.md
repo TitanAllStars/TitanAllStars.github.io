@@ -68,8 +68,8 @@ Membership management will be frequent, but particularly on Tuesday when it beco
 If you are dropped for lack of activity, do feel free to rejoin for the periods when you have more time to commit.  Just don't leave us hanging.  Communication is the key.
 
 ## War
-* The War Party consists of FIFTEEN Guild Champion battle teams.
-* Winning a war provide rewards the participants with trophies that can be spent to buy power-up Hero Skins.
+* The War Party consists of FIFTEEN "guild champion" battle teams seleected daily.
+* Winning a battle rewards the guild champions with trophies that can buy power-up Hero Skins.
 * Obviously, to win, the most powerful of the teams are prioritised, but there is also always lower level mop up that gives less powerful players a chance to participate and gain experience.  
 * In the past, things have broken down when less committed players simply don't turn up for the battle.  Points are lost, league standing lowered and rewards reduced.  This usually occurs with newer players at the lower power levels.  Also we should rotate the bottom positions to give new blood a try. So lower level positions potentially open each day. If you want a run in the War Party, just ask.   
 * The most important thing about joining the War Party is reliability.  Its REALLY bad for us if you don't turn up.
