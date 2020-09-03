@@ -9,10 +9,11 @@ Swing by our  **[Discord Chat Server](https://discord.gg/KPpxgdD)** and introduc
 * What you want out of a guild? 
 
 Newbies and experienced players looknig for a fresh start are all welcome. <br>
-Enthusism is as important as experience. <br>
-We'll help build you into a player valuable to the team.
+Enthusism and consistency is as important as experience. With those, we can build you into a strong player valuable to the team.
 
-## Get a titan name 
+Of course, you shold know [why a guild is useful to you](https://www.youtube.com/watch?v=X_-sNpLHeOw)
+
+## Get your titan name 
 If you're ammenable, get with the theme and **[choose a Titan name from this list](https://www.theoi.com/greek-mythology/titans.html)** (or elsewhere) <br>
 Change your in-game name by clicking your profile icon in top left of screen. <br>
 
@@ -67,7 +68,7 @@ Membership management will be frequent, but particularly on Tuesday when it beco
 If you are dropped for lack of activity, do feel free to rejoin for the periods when you have more time to commit.  Just don't leave us hanging.  Communication is the key.
 
 ## War
-* The War Party consists of FIFTEEN Guild Champion battle teams submitted by members for review.
+* The War Party consists of FIFTEEN Guild Champion battle teams.
 * Winning a war provide rewards the participants with trophies that can be spent to buy power-up Hero Skins.
 * Obviously, to win, the most powerful of the teams are prioritised, but there is also always lower level mop up that gives less powerful players a chance to participate and gain experience.  
 * In the past, things have broken down when less committed players simply don't turn up for the battle.  Points are lost, league standing lowered and rewards reduced.  This usually occurs with newer players at the lower power levels.  Also we should rotate the bottom positions to give new blood a try. So lower level positions potentially open each day. If you want a run in the War Party, just ask.   
