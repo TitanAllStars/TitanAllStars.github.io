@@ -83,7 +83,9 @@ If you are dropped for lack of activity, do feel free to rejoin for the periods 
 If you have been selected for the War Prty, a requested order of business after you log in is: 
 1. Announce in the Guild Chat that you've arrived and how long you can stay. Ask for orders.
 2. Go mine you 150 quota of titanite (response times to (1.) can vary).
-3. Review your assigned targets in the Battle interface.  Note that opponents may have powered up since the assignments were made. Advise in the Guild Chat that are are executing the attacks.
+3. Review your assigned targets in the Battle interface.  <br>
+Note that opponents may have powered up since the assignments were made. <br>
+Advise in the Guild Chat that are are executing the attacks.
 3. Report your results to the Guild Chat.
 4. Get on with your other business.
 
