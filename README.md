@@ -99,6 +99,10 @@ If you are dropped for lack of activity, feel free to rejoin for the periods whe
 ## Outland
 * nothing yet
 
+## Encounter strategy
+* When fighting bosses, swap out Area Effect heros like Keira for a single target attacker like Arachne.
+* When you get the upper hand in an encounter stage, turn off "Auto" so your characters charge to unleash at the start of the next stage.
+
 # Info request
 If you have any personal tips, or think anything linked above has something of particular important to note on this page, please first discuss in the Guild Chat and then msg Pallus to update here.  
 
