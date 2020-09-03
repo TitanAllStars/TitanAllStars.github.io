@@ -9,28 +9,30 @@ Swing by our **Guild Chat** and introduce yourself...
 * How long your been playing?  
 * What you want out of your guild? 
 
+## Chat server
+Join our [Discord Chat Server](https://discord.gg/KPpxgdD)** 
+
 ## Get a titan name 
-If you're ammenable, get with the them and **[choose a Titan name from this list](https://www.theoi.com/greek-mythology/titans.html)** (or elsewhere) <br>
+If you're ammenable, get with the theme and **[choose a Titan name from this list](https://www.theoi.com/greek-mythology/titans.html)** (or elsewhere) <br>
 Change this in-game by clicking your profile icon in top left of screen. <br>
 
 Enthusism is as important as experience. We'll help build you into a player valuable to the team, and kick that off with these tips...
 
-## Chat server
-Join our [Discord Chat Server](https://discord.gg/KPpxgdD)** 
-
 ## Real world money
-The general philosophy of the guild is **Free To Play**, but suggest a couple of small purchases that may be worthwhile to optimise your real-world-time and enjoyment...
+The general philosophy of the guild is **Free To Play**, but a couple of small purchases are suggested...
 
-### VIP Level 1
+### Instant Raid
+Name: VIP Level 1
 Cost: One-time $1.99 AUD; <br>
 Period: Permanent <br>
-Benefit: Enables **Instant Raid** - this can save hours when farming for equipment to **promote** your heros.  <br>
+Benefit: Saves your real-world-time when mining for equipment to promote your heros. <br>
 ![Instant Raid Buttons](https://herowars.zendesk.com/hc/article_attachments/360041242594/mceclip3.png)
 
-### Valkyrie's Favor
+### Combat Speed x5
+name: Valkyrie's Favor
 Cost: Weekly $3.29 AUD; <br>
-Period: Some suggest its useful for two weeks (currently not clear on the exit condition??) <br>
-Benefit: Helps get early Arifact Coins and Cores for upgrading heros.  Also 5x combat speed benefits practical use of your time.  <br>
+Period: Two weeks <br>
+Benefit: Saves your real-world-time.  Also extra early Arifact Coins and Cores for levelelling artifacts.  <br>
 
 ## Titanite
 * The optimal amount of titanite to aim for is 150. You have two daily quests with targets of 75 and 150, which EACH return you ONE Titan Summoning Sphere. Doing beyond 150 a day moves you into harder territory with less sphere power-ups.
