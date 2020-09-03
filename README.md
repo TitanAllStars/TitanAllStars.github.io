@@ -7,7 +7,7 @@
 Newbies welcome. We're happy the help you get the most out of the game.  <br>
 Swing by our **Guild Chat** and introduce yourself...
 * How long your been playing?  
-* What you want out of your guild? 
+* What you want out of a guild? 
 
 ## Chat server
 Join our [Discord Chat Server](https://discord.gg/KPpxgdD)** 
