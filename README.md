@@ -5,7 +5,7 @@
 **Welcome to Titan All Stars!!!!** playing **Hero Wars** on server 20 **Tempered Steel**.  
 
 Newbies welcome. We're happy the help you get the most out of the game.  <br>
-Swing by our **[Discord Chat Server](https://discord.gg/KPpxgdD)** and introduce yourself...
+Swing by our **Guild Chat** and introduce yourself...
 * How long your been playing?  
 * What you want out of your guild? 
 
@@ -14,6 +14,9 @@ If you're ammenable, get with the them and **[choose a Titan name from this list
 Change this in-game by clicking your profile icon in top left of screen. <br>
 
 Enthusism is as important as experience. We'll help build you into a player valuable to the team, and kick that off with these tips...
+
+## Chat server
+Join our [Discord Chat Server](https://discord.gg/KPpxgdD)** 
 
 ## Real world money
 The general philosophy of the guild is **Free To Play**, but suggest a couple of small purchases that may be worthwhile to optimise your real-world-time and enjoyment...
