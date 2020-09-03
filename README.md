@@ -8,28 +8,27 @@ Swing by our  **[Discord Chat Server](https://discord.gg/KPpxgdD)** and introduc
 * How long your been playing?  
 * What you want out of a guild? 
 
-Enthusism is as important as experience. We'll help build you into a player valuable to the team, and kick that off with these tips...
+Newbies and experienced players looknig for a fresh start are all welcome. <br>
+Enthusism is as important as experience. <br>
+We'll help build you into a player valuable to the team.
 
 ## Get a titan name 
 If you're ammenable, get with the theme and **[choose a Titan name from this list](https://www.theoi.com/greek-mythology/titans.html)** (or elsewhere) <br>
 Change your in-game name by clicking your profile icon in top left of screen. <br>
 
-## Chat server
-Join our
-
 ## Real world money
 The elephant in the room is whether games like Hero Wars force you to **Pay To Win**. So far (level 50) it doesn't. 
 The general philosophy of the guild is **Free To Play**.  Where is the fun and challenge in just forking over cash. 
-Howver if you're going to be spending weeks on the game, a couple of small purchases are suggested...
+Howver if you're going to be spending weeks on the game, a couple of small purchases are suggested, but purely optional...
 
 ### VIP Level 1
-Benefit: **INSTANT RAID** saves your real-world-time when mining for equipment to promote your heros. <br>
+Benefit: **INSTANT RAID** saves your real-world time when mining for equipment to promote your heros. <br>
 Cost: One-time $1.99 AUD; <br>
 Period: Permanent <br>
 ![Instant Raid Buttons](https://herowars.zendesk.com/hc/article_attachments/360041242594/mceclip3.png)
 
 ### Valkyrie's Favor
-Benefit: Combat 5x speed-up save real-world-time.  Also extra early Arifact Coins and Cores for levelelling artifacts.  <br>
+Benefit: Combat 5x speed-up saves your real-world time.  Also Arifact Coins and Cores help earlt levelelling of artifacts.  <br>
 Cost: Weekly $3.29 AUD; <br>
 Period: Two weeks <br>
 
@@ -41,7 +40,7 @@ Period: Two weeks <br>
 
 ## Emeralds
 * Generally, here is [where to spend your emeralds](https://www.youtube.com/watch?v=cYDR0TkNnDU&feature=emb_rel_pause)
-* Specifically, our guild requests you prioritize spending emeralds on powering-up your Titans. Bump'em up before hitting the Dungeon.  This helps a virtuous cycle of farming titanite to hit your 150 titanate quota.  Strong titans also greatly assist the Guild Wars, where the higher we place the quicker you receive your Hero Skin power-up from the Guild War Shop.     
+* Its beneficial to spending your first emeralds powering-up your Titans up to between levels 10 to 15, to kick off a virtuous-cycle of titanite gathering.  Strong titans also greatly assist the Guild Wars.      
 * Do also open three chests up per Outland Boss win, to get additional Artifact Coins.  Use those Artifact Coins to power-up your A-Team's first artifacts to 100%-Activation. 
 * Minimise emerald to coin conversions - unless some special event gives extreme bonuses.
 * Avoid opening extra chests in Tower.  As a general rule only open ONE-OF-THREE Tower Chests, unless you see something particularly needful.  
@@ -64,10 +63,16 @@ Unless otherwise arranged with elder members, candidates-to-be-dropped will be p
 1. Low overall Activity per rolling weekly Total - not playing the game
 1. Player name not changed from default - not engaged in the game
 
-A leave-of-absense can be requested (i.e. voluntarily/temporarily give up your slot). A policy of maintaining open slots will assist your return.
+Membership management will be frequent, but particularly on Tuesday when it becomes apparent that weekend-only players are not contributing during the week.
+If you are dropped for lack of activity, do feel free to rejoin for the periods when you have more time to commit.  Just don't leave us hanging.  Communication is the key.
 
-Membership management will be frequent, but particularly on Tuesday to clear out what seem weekend-only players.
-If you are dropped for lack of activity, feel free to rejoin for the periods when you have more time to commit. 
+## War
+* The War Party consists of FIFTEEN Guild Champion battle teams submitted by members for review.
+* Winning a war provide rewards the participants with trophies that can be spent to buy power-up Hero Skins.
+* Obviously, to win, the most powerful of the teams are prioritised, but there is also always lower level mop up that gives less powerful players a chance to participate and gain experience.  
+* In the past, things have broken down when less committed players simply don't turn up for the battle.  Points are lost, league standing lowered and rewards reduced.  This usually occurs with newer players at the lower power levels.  Also we should rotate the bottom positions to give new blood a try. So lower level positions potentially open each day. If you want a run in the War Party, just ask.   
+* The most important thing about joining the War Party is reliability.  Its REALLY bad for us if you don't turn up.
+* Teams are locked in a day in advance.  If you are not going to be able to attend, PLEASE COMMUNICATE and opt ot.  Good communication will be looked on very favourably in considering more permanent participation.  
 
 # General info
 
