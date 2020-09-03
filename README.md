@@ -2,10 +2,9 @@
 
 ## Welcome
 
-**Welcome to Titan All Stars!!!!** playing **Hero Wars** on server 20 **Tempered Steel**.  
+Welcome to **Titan All Stars**!!!! playing **Hero Wars** on server 20 **Tempered Steel**.  
 
-Newbies welcome. We're happy the help you get the most out of the game.  <br>
-Swing by our **Guild Chat** and introduce yourself...
+Swing by our  **[Discord Chat Server](https://discord.gg/KPpxgdD)** and introduce yourself...
 * How long your been playing?  
 * What you want out of a guild? 
 
@@ -16,7 +15,7 @@ If you're ammenable, get with the theme and **[choose a Titan name from this lis
 Change your in-game name by clicking your profile icon in top left of screen. <br>
 
 ## Chat server
-Join our **[Discord Chat Server](https://discord.gg/KPpxgdD)** 
+Join our
 
 ## Real world money
 The elephant in the room is whether games like Hero Wars force you to **Pay To Win**. So far (level 50) it doesn't. 
