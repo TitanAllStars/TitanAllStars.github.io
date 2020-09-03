@@ -72,7 +72,8 @@ If you are dropped for lack of activity, do feel free to rejoin for the periods 
 * Obviously, to win, the most powerful of the teams are prioritised, but there is also always lower level mop up that gives less powerful players a chance to participate and gain experience.  
 * In the past, things have broken down when less committed players simply don't turn up for the battle.  Points are lost, league standing lowered and rewards reduced.  This usually occurs with newer players at the lower power levels.  Also we should rotate the bottom positions to give new blood a try. So lower level positions potentially open each day. If you want a run in the War Party, just ask.   
 * The most important thing about joining the War Party is reliability.  Its REALLY bad for us if you don't turn up.
-* Teams are locked in a day in advance.  If you are not going to be able to attend, PLEASE COMMUNICATE and opt ot.  Good communication will be looked on very favourably in considering more permanent participation.  
+* Teams are locked in a day in advance.  If you are not going to be able to attend, **PLEASE COMMUNICATE** and opt-out.  Good communication will be viewed very favourably in considering more permanent placement in the War Party.  
+* Show your commitment and reliability to your guild mates by regularly completing you quota of 150 titanite.
 
 # General info
 
