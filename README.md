@@ -67,14 +67,23 @@ Unless otherwise arranged with elder members, candidates-to-be-dropped will be p
 Membership management will be frequent, but particularly on Tuesday when it becomes apparent that weekend-only players are not contributing during the week.
 If you are dropped for lack of activity, do feel free to rejoin for the periods when you have more time to commit.  Just don't leave us hanging.  Communication is the key.
 
-## War
+## War party
 * The War Party consists of FIFTEEN "guild champion" battle teams seleected daily.
 * Winning a battle rewards the guild champions with trophies that can buy power-up Hero Skins.
-* Obviously, to win, the most powerful of the teams are prioritised, but there is also always lower level mop up that gives less powerful players a chance to participate and gain experience.  
-* In the past, things have broken down when less committed players simply don't turn up for the battle.  Points are lost, league standing lowered and rewards reduced.  This usually occurs with newer players at the lower power levels.  Also we should rotate the bottom positions to give new blood a try. So lower level positions potentially open each day. If you want a run in the War Party, just ask.   
-* The most important thing about joining the War Party is reliability.  Its REALLY bad for us if you don't turn up.
+* Obviously, to win, the most powerful of the teams are prioritised, but there is also always lower level mop up that gives less powerful players a chance to participate.  
+* In the past, things have broken down when less committed players simply don't turn up for the battle.  Points are lost, league standing lowered and rewards reduced.  This usually occurs with lower level players, so lower level positions potentially open each day.  
+* If you want a run in the War Party, just ask.   
+* The most important thing aboutbeing selected for the War Party is reliability.  Its **REALLY BAD** for us if you don't turn up.
 * Teams are locked in a day in advance.  If you are not going to be able to attend, **PLEASE COMMUNICATE** and opt-out.  Good communication will be viewed very favourably in considering more permanent placement in the War Party.  
 * Show your commitment and reliability to your guild mates by regularly completing you quota of 150 titanite.
+
+## War Party Standing Orders
+If you have been selected in the War party, a requested order of business after you log in is: 
+1. Announce in the Guild Chat that you've arrived and how long you can stay. Ask for orders.
+2. Go mine you 150 quota of titanite (response times to (1.) can vary).
+3. Review your assigned targets in the Battle interface.  Note that opponents may have powered up since the assignments were made. Advise in the Guild Chat that are are executing the attacks.
+3. Report your results to the Guild Chat.
+4. Get on with your other business.
 
 # General info
 
