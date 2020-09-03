@@ -2,7 +2,7 @@
 
 ## Welcome
 
-**Welcome to Titan All Stars!!!!** playing **Hero Wars** on **"Tempered Steel"** (server 20).  
+**Welcome to Titan All Stars!!!!** playing **Hero Wars** on server 20 **Tempered Steel**.  
 
 Newbies welcome. We're happy the help you get the most out of the game.  <br>
 Swing by our **[Discord Chat Server](https://discord.gg/KPpxgdD)** and introduce yourself...
