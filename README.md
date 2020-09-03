@@ -35,8 +35,8 @@ Cost: Weekly $3.29 AUD; <br>
 Period: Two weeks <br>
 
 ## Titanite
-* The optimal amount of titanite to aim for is 150. You have two daily quests with targets of 75 and 150, which EACH return you ONE Titan Summoning Sphere. Doing beyond 150 a day moves you into harder territory with less sphere power-ups.
-* The guild has a cummulative target of 3000 which returns you THREE Titan Summoning Spheres - easy to achieve if 20 of the 30 guild members do their part. Lets help each other get there.
+* The optimal amount of titanite to aim for each day is 150. You have two daily quests with targets of 75 and 150, which EACH return you ONE Titan Summoning Sphere. Doing beyond 150 a day moves you into harder territory with less sphere power-ups.
+* The guild target is 3000 per day, which returns each member THREE Titan Summoning Spheres.  This is easy to achieve if everyone chips in - even if only 20 of the 30 guild members make the quota. Lets help each other get those bonus spheres.
 * This is a vituous cycle. The additional titan levelling from the extra Summoning Spheres allows you to more easily mine titanite.
 * Levelling up your titans provides "Sparks" to power-up your heros' Gift Of The Elements. 
 
@@ -57,7 +57,7 @@ The point of a guild is to assist each other to progress through the game.
 Hero Wars is easy to free-to-play - so there are a lot of transient sightseers, or players that make a start then lose interest.
 We would like to leave slots free for new blood (beginner or experienced) who are ethusiastic about progressing in the game.
 To this end, there need to be some criteria with which to leave those slots open.
-The tables located under **Gifts > View** provide the best measure of performance.
+The in-game progress tables located under **Gifts > View** provide the best measure of performance.
 
 Unless otherwise arranged with elder members, candidates-to-be-dropped will be prioritised as follows...
 1. Low Titanite total - lack of interest in helping your fellow members (75 or 150 a day helps keep the doctor away)
