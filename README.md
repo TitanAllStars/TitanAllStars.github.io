@@ -67,7 +67,7 @@ Unless otherwise arranged with elder members, candidates-to-be-dropped will be p
 Membership management will be frequent, but particularly on Tuesday when it becomes apparent that weekend-only players are not contributing during the week.
 If you are dropped for lack of activity, do feel free to rejoin for the periods when you have more time to commit.  Just don't leave us hanging.  Communication is the key.
 
-## War Party
+## Guild War
 * The War Party consists of FIFTEEN "guild champion" battle teams seleected daily.
 * Winning a battle rewards the guild champions with trophies that can buy power-up Hero Skins.
 * Obviously, to win, the most powerful of the teams are prioritised, but there is also always lower level mop up that gives less powerful players a chance to participate.  
@@ -80,7 +80,7 @@ If you are dropped for lack of activity, do feel free to rejoin for the periods 
 * Show your commitment and reliability to your guild mates by regularly completing you quota of 150 titanite.
 
 ## War Party Standing Orders
-If you have been selected in the War party, a requested order of business after you log in is: 
+If you have been selected for the War Prty, a requested order of business after you log in is: 
 1. Announce in the Guild Chat that you've arrived and how long you can stay. Ask for orders.
 2. Go mine you 150 quota of titanite (response times to (1.) can vary).
 3. Review your assigned targets in the Battle interface.  Note that opponents may have powered up since the assignments were made. Advise in the Guild Chat that are are executing the attacks.
