@@ -13,7 +13,7 @@ Enthusism is as important as experience. We'll help build you into a player valu
 
 ## Get a titan name 
 If you're ammenable, get with the theme and **[choose a Titan name from this list](https://www.theoi.com/greek-mythology/titans.html)** (or elsewhere) <br>
-Change this in-game by clicking your profile icon in top left of screen. <br>
+Change your in-game name by clicking your profile icon in top left of screen. <br>
 
 ## Chat server
 Join our **[Discord Chat Server](https://discord.gg/KPpxgdD)** 
