@@ -13,9 +13,8 @@ If accepted to join, in keeping with the theme, it would be nice if you **[choos
 
 Enthusism is as important as experience. We'll help build you into a player valuable to the team, and kick that off with these tips...
 
-## Real money strategy
-Hero Wars is reasonably practical to **Play For Free** (at least up to level 40 I've done so far).
-Some consider spending a **minimal amount** of real money to be worthwhile, as discussed below.
+## Real world money
+The general philosophy of the guild is **Free To Play**, but suggest a couple of small purchases that may be worthwhile to optimise your real-world-time and enjoyment...
 
 ### VIP Level 1
 Cost: One-time $1.99 AUD; <br>
