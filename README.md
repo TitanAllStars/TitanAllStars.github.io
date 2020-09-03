@@ -10,7 +10,7 @@ Swing by our **Guild Chat** and introduce yourself...
 * What you want out of a guild? 
 
 ## Chat server
-Join our [Discord Chat Server](https://discord.gg/KPpxgdD)** 
+Join our **[Discord Chat Server](https://discord.gg/KPpxgdD)** 
 
 ## Get a titan name 
 If you're ammenable, get with the theme and **[choose a Titan name from this list](https://www.theoi.com/greek-mythology/titans.html)** (or elsewhere) <br>
