@@ -79,15 +79,14 @@ If you are dropped for lack of activity, do feel free to rejoin for the periods 
 * Good communication will be viewed very favourably in considering more permanent placement in the War Party.  
 * Show your commitment and reliability to your guild mates by regularly completing you quota of 150 titanite.
 
-## War Party Standing Orders
+## War Party Order Of Business 
 If you have been selected for the War Prty, a requested order of business after you log in is: 
-1. Announce in the Guild Chat that you've arrived and how long you can stay. Ask for orders.
-2. While waiting for an answer, get your 150 quota of titanite.
-3. Review your assigned targets in the Battle interface.  <br>
-Note that opponents may have powered up since the assignments were made. <br>
-Advise in the Guild Chat that are are executing the attacks.
-3. Report your results to the Guild Chat.
-4. Get on with your other business.
+1. Review your assigned targets in the Battle interface.
+3. Report your evaluation of your match-ups, since the enemy may have powered up since the assignment. Ask for confirmation.
+4. While waiting for an answer, go grab your 150 quota of titanite.
+5. When you are done, if no answer, advise Guild Chat you are executing your assigned orders.
+6. Report battle results to the Guild Chat.
+7. Get on with other business.
 
 # General info
 
