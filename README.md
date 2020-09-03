@@ -9,7 +9,9 @@ Swing by our **[Discord Chat Server](https://discord.gg/KPpxgdD)** and introduce
 * How long your been playing?  
 * What you want out of your guild? 
 
-If accepted to join, in keeping with the theme, it would be nice if you **[choose a Titan name](https://www.theoi.com/greek-mythology/titans.html)** (set in-game by clicking your profile icon in top left) <br>
+## Get a titan name 
+If you're ammenable, get with the them and **[choose a Titan name from this list](https://www.theoi.com/greek-mythology/titans.html)** (or elsewhere) <br>
+Change this in-game by clicking your profile icon in top left of screen. <br>
 
 Enthusism is as important as experience. We'll help build you into a player valuable to the team, and kick that off with these tips...
 
