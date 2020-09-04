@@ -86,7 +86,7 @@ If you have been selected as a Guild Champion and thus critical to the day's bat
 3. Report your evaluation of your match-ups or if you see a better opportunity. Ask for confirmation.
 4. While waiting for an answer, go grab your 150 quota of titanite.
 5. When you are done, if no answer, advise Guild Chat you are executing your assigned orders.
-6. Report battle results to the Guild Chat.
+6. Report your battle results to the Guild Chat.
 7. Get on with other business.
 
 # General info
