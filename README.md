@@ -80,9 +80,9 @@ If you are dropped for lack of activity, do feel free to rejoin for the periods 
 * Show your commitment and reliability to your guild mates by regularly completing you quota of 150 titanite.
 
 ## War Party Order Of Business 
-If you have been selected for the War Prty, a requested order of business after you log in is: 
-1. Announce your arrival in Guild Chat, and how long you can stay this gameplay period.
-2. Review your assigned targets on the Battle Map. Note that these assignments are just for initial planning and war is volatile.  Perhaps the enemy powered up since the assignment, or someone else lost a critical battle.   
+If you have been selected as a Guild Champion and so are critical to the day's battle, you are requested to: 
+1. As soon as you log in, announce your arrival in Guild Chat, and how long you will be around.
+2. Review your assigned targets on the Battle Map. Note that these assignments were just the initial plans.  War is volatile! and perhaps your opponent powered up since the assignment, or someone else lost a critical battle.
 3. Report your evaluation of your match-ups or if you see a better opportunity. Ask for confirmation.
 4. While waiting for an answer, go grab your 150 quota of titanite.
 5. When you are done, if no answer, advise Guild Chat you are executing your assigned orders.
