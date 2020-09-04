@@ -38,6 +38,7 @@ Period: Two weeks <br>
 * The guild target is 3000 per day, which returns each member THREE Titan Summoning Spheres.  This is easy to achieve if everyone chips in - even if only 20 of the 30 guild members make the quota. Lets help each other get those bonus spheres.
 * This is a vituous cycle. The additional titan levelling from the extra Summoning Spheres allows you to more easily mine titanite.
 * Levelling up your titans provides "Sparks" to power-up your heros' Gift Of The Elements. 
+* [Optimal titanite strategy](https://imgbb.com/31nVHyj)
 
 ## Emeralds
 * Generally, here is [where to spend your emeralds](https://www.youtube.com/watch?v=cYDR0TkNnDU&feature=emb_rel_pause)
