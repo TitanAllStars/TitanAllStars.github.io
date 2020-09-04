@@ -81,8 +81,9 @@ If you are dropped for lack of activity, do feel free to rejoin for the periods 
 
 ## War Party Order Of Business 
 If you have been selected for the War Prty, a requested order of business after you log in is: 
-1. Review your assigned targets in the Battle interface.
-3. Report your evaluation of your match-ups, since the enemy may have powered up since the assignment. Ask for confirmation.
+1. Announce your arrival in Guild Chat, and how long you can stay this gameplay period.
+2. Review your assigned targets on the Battle Map. Note that these assignments are just for initial planning and war is volatile.  Perhaps the enemy powered up since the assignment, or someone else lost a critical battle.   
+3. Report your evaluation of your match-ups or if you see a better opportunity. Ask for confirmation.
 4. While waiting for an answer, go grab your 150 quota of titanite.
 5. When you are done, if no answer, advise Guild Chat you are executing your assigned orders.
 6. Report battle results to the Guild Chat.
