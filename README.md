@@ -17,22 +17,6 @@ Of course, you should know [why a guild is useful to you](https://www.youtube.co
 If you're ammenable, get with the theme and **[choose a Titan name from this list](https://www.theoi.com/greek-mythology/titans.html)** (or elsewhere) <br>
 Change your in-game name by clicking your profile icon in top left of screen. <br>
 
-## Real world money
-The elephant in the room is whether games like Hero Wars force you to **Pay To Win**. So far (level 50) it doesn't. 
-The general philosophy of the guild is **Free To Play**.  Where is the fun and challenge in just forking over cash. 
-Howver if you're going to be spending weeks on the game, a couple of small purchases are suggested, but purely optional...
-
-### VIP Level 1
-Benefit: **INSTANT RAID** saves your real-world time when mining for equipment to promote your heros. <br>
-Cost: One-time $1.99 AUD; <br>
-Period: Permanent <br>
-![Instant Raid Buttons](https://herowars.zendesk.com/hc/article_attachments/360041242594/mceclip3.png)
-
-### Valkyrie's Favor
-Benefit: Combat 5x speed-up saves your real-world time.  Also Arifact Coins and Cores help earlt levelelling of artifacts.  <br>
-Cost: Weekly $3.29 AUD; <br>
-Period: Two weeks <br>
-
 ## Titanite
 * The optimal amount of titanite to aim for each day is 150. You have two daily quests with targets of 75 and 150, which EACH return you ONE Titan Summoning Sphere. Doing beyond 150 a day moves you into harder territory with less sphere power-ups.
 * The guild target is 3000 per day, which returns each member THREE Titan Summoning Spheres.  This is easy to achieve if everyone chips in - even if only 20 of the 30 guild members make the quota. Lets help each other get those bonus spheres.
@@ -129,6 +113,23 @@ If you have been selected as a Guild Champion and thus critical to the day's bat
 ## Encounter strategy
 * When fighting bosses, swap out Area Effect heros like Keira for a single target attacker like Arachne.
 * When you get the upper hand in an encounter stage, turn off "Auto" so your characters charge to unleash at the start of the next stage.
+
+## Real world money strategy
+The elephant in the room is whether games like Hero Wars force you to **Pay To Win**. So far (level 50) it doesn't. 
+The general philosophy of this guild is **Free To Play**.  Where is the fun and challenge in just forking over cash for power-ups. 
+However if you're going to be spending significant time in the game, a couple of small purchases are recommended...
+
+### VIP Level 1
+Benefit: **INSTANT RAID** saves your real-world time when mining for equipment to promote your heros. <br>
+Helps you you quickly grind the Dungeon and Tower each day, to get the resources to do other interesting and fun things.  
+Cost: One-time $1.99 AUD; <br>
+Period: Permanent <br>
+![Instant Raid Buttons](https://herowars.zendesk.com/hc/article_attachments/360041242594/mceclip3.png)
+
+### Valkyrie's Favor
+Benefit: Combat 5x speed-up saves your real-world time.  Also Arifact Coins and Cores help earlt levelelling of artifacts.  <br>
+Cost: Weekly $3.29 AUD; <br>
+Period: Two weeks <br>
 
 # Info request
 If you have any personal tips, or think anything linked above has something of particular important to note on this page, please first discuss in the Guild Chat and then msg Pallus to update here.  
