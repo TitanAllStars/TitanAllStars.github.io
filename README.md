@@ -112,6 +112,7 @@ If you have been selected as a Guild Champion and thus critical to the day's bat
 * Run your tower battles with extra healers, since damage carries over from battle to battle and doesn't reset until the next day, you will get further.
 * Usually only open one chest at a time - emeralds better spent on other things.
 * Generally spend skulls on the first (of three) power-up cards.  This is the most efficient and by the time you get to the top you'll have accumulated sufficient cheap powerups to complete the tower. 
+* At the end, don't forget to convert both you Skulls and Tower Points into gold. 
 * [Developer's info](https://herowars.zendesk.com/hc/en-us/articles/218469648-Tower)
 
 ## Adventures
