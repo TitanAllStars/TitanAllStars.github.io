@@ -69,12 +69,28 @@ If you are dropped for lack of activity, do feel free to rejoin for the periods 
 ## War Party Order Of Business 
 If you have been selected as a Guild Champion and thus critical to the day's battle, you are requested to: 
 1. As soon as you log in, announce your arrival in Guild Chat.  Let us know your real-world constraints on your availability.
-2. Review your assigned targets on the Battle Map. Note that these assignments were just the initial plans.  **WAR IS VOLATILE!!** Perhaps your opponent powered up since the assignment, or someone else lost a critical battle.
+
+2. Review your assigned targets on the Battle Map. Note that these assignments were just the initial plans.  **WAR IS VOLATILE!!** Plans may change since: <br>
+a. your opponent powered up since the task assignment <br>
+b. someone else lost a critical battle <br>
+c. due to timezone, you've logged in earlier than someone assigned to a critical target, and strategically its better to clear it earlier.
+
 3. Report your evaluation of your match-ups or if you see a better opportunity. Ask for confirmation.
 4. While waiting for an answer, go grab your 150 quota of titanite.
 5. When you are done, if no answer, advise Guild Chat you are executing your assigned orders.
 6. Report your battle results to the Guild Chat.
 7. Get on with other business.
+
+Your evaluation of your match-up and opportunities should in general consider the following priority of capturing buildings:
+1. Bridge - to reach the citadel.
+2. Break through citadel defences - to reach the citadel.
+3. Citadel - since if it is done later and we clear 5/6, that will be 5 wasted attacks.
+4. Everything else - Focus on capturing full buildings.  A building capture doubles the points earnt in the individual battles. 
+
+Opportunities to look for to help acheive the current priority are:
+* swapping assignments, such that both battles will still be won. 
+
+**Now the overarching request is that you communicate.  Thats how battles are won to receive rewards.**
 
 # General info
 
