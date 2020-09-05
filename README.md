@@ -64,6 +64,7 @@ If you are dropped for lack of activity, do feel free to rejoin for the periods 
 * The War Party is locked-in a day in advance.  If you are not going to be able to attend, **please communicate** to opt-out. 
 * Good communication will be viewed very favourably in considering more permanent placement in the War Party.  
 * Show your commitment and reliability to your guild mates by regularly completing you quota of 150 titanite.
+* [Comprehensive description](https://herowars.zendesk.com/hc/en-us/articles/115010175087-Guild-War)
 
 ## War Party Order Of Business 
 If you have been selected as a Guild Champion and thus critical to the day's battle, you are requested to: 
