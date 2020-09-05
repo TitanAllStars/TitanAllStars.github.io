@@ -98,12 +98,26 @@ If you have been selected as a Guild Champion and thus critical to the day's bat
 * [Guild Overview](https://www.levelwinner.com/hero-wars-nexters-guilds-overview-tips-cheats-tricks-for-getting-the-most-out-of-your-guild/)
 
 ## Campaign
-* Most of your early work
-* [Game info](https://herowars.zendesk.com/hc/en-us/articles/360025163314-Campaign) - update: "Raid х10" requires VIP 5  
+* First activity open to lower level teams.
+* Completing each battle increase the experience of your Heros.
+* Completing each battle increases your Team Level - shown beneath your Player Icon in top right of screen. 
+* Monitor your progress to next Team Level by watching "Team EXP" after clicking on Player Icon.
+* [Game info](https://herowars.zendesk.com/hc/en-us/articles/360025163314-Campaign)   
 
 ## Tower
-* Run your teams with extra healers, since damage carries over from level to level and doesn't reset until the next day.
+* The best source of coin and rare fragments of equipment.  You should try to reach the top each day.  
+* Tower difficulty is based your Team Level, so keep your Hero Level maxed to same as your Team Level.
+* Each day, up you Hero Levels, then run the Tower before doing campaigns that up your Team Level.   
+* Run your tower battles with extra healers, since damage carries over from battle to battle and doesn't reset until the next day, you will get further.
+* Usually only open one chest at a time - emeralds better spent on other things. 
 * [Game info](https://herowars.zendesk.com/hc/en-us/articles/218469648-Tower)
+
+## Adventures
+* Opens at level 40.
+* Adventures can be run with three players, but can be completed by two (and possibly get more share of loot).
+* Don't barge into a running adventure without asking.  Perhaps they are trying to complete it with the minimum players.  
+* Adventures dtay open (maybe) 7 days.  (need confirmation)
+* [Video how-to](https://www.youtube.com/watch?v=54W2DtBFEfE)
 
 ## Arena
 * [Game info](https://herowars.zendesk.com/hc/en-us/articles/218900067-Arena-)
