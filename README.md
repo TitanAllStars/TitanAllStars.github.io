@@ -19,7 +19,7 @@ If you're ammenable, get with the theme and **[choose a Titan name from this lis
 Change your in-game name by clicking your profile icon in top left of screen. <br>
 
 ## Titanite
-* The optimal amount of titanite to aim for each day is 150. You have two daily quests with targets of 75 and 150, which EACH return you ONE Titan Summoning Sphere. Doing beyond 150 a day moves you into harder territory with less sphere power-ups.
+* The optimal amount of titanite to mine each day is 150. You have two daily quests with targets of 75 and 150, which EACH return you ONE Titan Summoning Sphere. Doing beyond 150 a day moves you into harder territory with less sphere power-ups.  Note, if you have aim for Valkyrie's Favor and get a bonus 150, you should be aiming for 300 total.
 * The guild target is 3000 per day, which returns each member THREE Titan Summoning Spheres.  This is easy to achieve if everyone chips in - even if only 20 of the 30 guild members make the quota. Lets help each other get those bonus spheres.
 * This is a vituous cycle. The additional titan levelling from the extra Summoning Spheres allows you to more easily mine titanite.
 * Levelling up your titans provides "Sparks" to power-up your heros' Gift Of The Elements. 
