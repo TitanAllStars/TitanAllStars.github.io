@@ -68,7 +68,7 @@ If you are dropped for lack of activity, do feel free to rejoin for the periods 
 
 ## War Party Order Of Business 
 If you have been selected as a Guild Champion and thus critical to the day's battle, you are requested to: 
-1. As soon as you log in, announce your arrival in Guild Chat.  Let us know your real-world constraints on your availability.
+1. As soon as you log in, announce your arrival in Guild Chat like this... "WAR: Reviewing my assigned target now."  (Note, also let us know any real-world constraints on your period of play.)
 
 2. Review your assigned targets on the Battle Map. Note that these assignments were just the initial plans.  **WAR IS VOLATILE!!** Plans may change since: <br>
 a. your opponent powered up since the task assignment <br>
