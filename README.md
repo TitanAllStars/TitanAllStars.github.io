@@ -110,7 +110,8 @@ If you have been selected as a Guild Champion and thus critical to the day's bat
 * Tower difficulty is based your Team Level, so keep your Hero Level maxed to same as your Team Level.
 * Each day, up you Hero Levels, then run the Tower before doing campaigns that up your Team Level.   
 * Run your tower battles with extra healers, since damage carries over from battle to battle and doesn't reset until the next day, you will get further.
-* Usually only open one chest at a time - emeralds better spent on other things. 
+* Usually only open one chest at a time - emeralds better spent on other things.
+* Generally spend skulls on the first (of three) power-up cards.  This is the most efficient and by the time you get to the top you'll have accumulated sufficient cheap powerups to complete the tower. 
 * [Developer's info](https://herowars.zendesk.com/hc/en-us/articles/218469648-Tower)
 
 ## Adventures
