@@ -99,11 +99,11 @@ If you have been selected as a Guild Champion and thus critical to the day's bat
 * [Guild Overview](https://www.levelwinner.com/hero-wars-nexters-guilds-overview-tips-cheats-tricks-for-getting-the-most-out-of-your-guild/)
 
 ## Campaign
-* First activity open to lower level teams.
+* First activity open to beginning players.
 * Completing each battle increase the experience of your Heros.
 * Completing each battle increases your Team Level - shown beneath your Player Icon in top right of screen. 
 * Monitor your progress to next Team Level by watching "Team EXP" after clicking on Player Icon.
-* [Game info](https://herowars.zendesk.com/hc/en-us/articles/360025163314-Campaign)   
+* [Developer's info](https://herowars.zendesk.com/hc/en-us/articles/360025163314-Campaign)   
 
 ## Tower
 * The best source of coin and rare fragments of equipment.  You should try to reach the top each day.  
@@ -111,7 +111,7 @@ If you have been selected as a Guild Champion and thus critical to the day's bat
 * Each day, up you Hero Levels, then run the Tower before doing campaigns that up your Team Level.   
 * Run your tower battles with extra healers, since damage carries over from battle to battle and doesn't reset until the next day, you will get further.
 * Usually only open one chest at a time - emeralds better spent on other things. 
-* [Game info](https://herowars.zendesk.com/hc/en-us/articles/218469648-Tower)
+* [Developer's info](https://herowars.zendesk.com/hc/en-us/articles/218469648-Tower)
 
 ## Adventures
 * Opens at level 40.
