@@ -19,9 +19,12 @@ If you're ammenable, get with the theme and **[choose a Titan name from this lis
 Change your in-game name by clicking your profile icon in top left of screen. <br>
 
 ## Titanite
-* The optimal amount of titanite to mine each day is 150. You have two daily quests with targets of 75 and 150, which EACH return you ONE Titan Summoning Sphere. Doing beyond 150 a day moves you into harder territory with less sphere power-ups.  Note, if you have Valkyrie's Favor and get a bonus 150, you should be aiming for 300 total.
-* The guild target is 3000 per day, which returns each member THREE Titan Summoning Spheres.  This is easy to achieve if everyone chips in - even if only 20 of the 30 guild members make the quota. Lets help each other get those bonus spheres.
+* As the guild's name indicates, our key war strategy is having strong Titans.
+* Strong Titans come from Spheres, which come from dungeon titanite rewards.  
+* You have two personal daily quests for mining 75 and 150 titanite, which each give you bonus spheres to power-up your titans. 
+* The guild target is 3000 per day, which returns EACH member THREE bonus Spheres.  This is easy to achieve if everyone chips in - even if only 20 of the 30 guild members make the quota. It is expected that guild members will do the utmost to reach this target. Lets help each other get those bonus spheres.
 * This is a vituous cycle. The additional titan levelling from the extra Summoning Spheres allows you to more easily mine titanite.
+* The optimal amount of titanite to mine each day is 150. Beyond 150 a day moves you into harder territory with less sphere power-ups over the long term.  Note this 150 is on top of any free-bonuses from Valkyrie's Favor and the like. 
 * Levelling up your titans provides "Sparks" to power-up your heros' Gift Of The Elements. 
 * [Optimal titanite strategy](https://imgbb.com/31nVHyj)
 
