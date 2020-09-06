@@ -19,7 +19,7 @@ If you're ammenable, get with the theme and **[choose a Titan name from this lis
 Change your in-game name by clicking your profile icon in top left of screen. <br>
 
 ## Titanite
-* As the guild's name indicates, our key war strategy is having strong Titans.
+* As the guild's name indicates, our key strategy is having strong Titans.
 * Strong Titans come from Spheres, which come from dungeon titanite rewards.  
 * You have two personal daily quests for mining 75 and 150 titanite, which each give you bonus spheres to power-up your titans. 
 * The guild target is 3000 per day, which returns EACH member THREE bonus Spheres.  This is easy to achieve if everyone chips in - even if only 20 of the 30 guild members make the quota. It is expected that guild members will do the utmost to reach this target. Lets help each other get those bonus spheres.
