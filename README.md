@@ -4,19 +4,19 @@
 
 Welcome to **Titan All Stars** guild playing **Hero Wars** on server 20 **Tempered Steel**.  
 
-Newbies and experienced players looking for a fresh start are all welcome. <br>
+Our motto is **Have fun, play smart, win wars** <br>
 Enthusism and consistency is as important as experience. With those, we can build you into a strong player valuable to the team.
 
 Of course, you should know [why a guild is useful to you](https://www.youtube.com/watch?v=X_-sNpLHeOw)
 
-Swing by our  **[Discord Chat Server](https://discord.gg/KPpxgdD)** to chat. <br>
-Actually having only just configured the server, I (Pallus) am the only one there at the moment - and its a bit lonely.
+Visit us on **[Discord Chat Server](https://discord.gg/KPpxgdD)** <br>
+Actually having only just configured the server, Pallus and Cronos are looking forward to chatting with you.
 But once it picks up it co-ordination should be easier - not having to keep backing out of the game play to get to the chat.
 
 
-## Get your titan name 
-If you're ammenable, get with the theme and **[choose a Titan name from this list](https://www.theoi.com/greek-mythology/titans.html)** (or elsewhere) <br>
-Change your in-game name by clicking your profile icon in top left of screen. <br>
+## Get your titan name
+Looking for a real historic **Titan Name** **[choose a Titan name from this list](https://www.theoi.com/greek-mythology/titans.html)** (or elsewhere) <br>
+How to change your in-game name:  <click> your profile icon in top left of screen. <br>
 
 ## Titanite
 * As the guild's name indicates, our key strategy is having strong Titans.
