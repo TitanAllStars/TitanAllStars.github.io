@@ -26,7 +26,7 @@ Change your in-game name by clicking your profile icon in top left of screen. <b
 * This is a vituous cycle. The additional titan levelling from the extra Summoning Spheres allows you to more easily mine titanite.
 * The optimal amount of titanite to mine each day is 150. Beyond 150 a day moves you into harder territory with less sphere power-ups over the long term.  Note this 150 is on top of any free-bonuses from Valkyrie's Favor and the like. 
 * Levelling up your titans provides "Sparks" to power-up your heros' Gift Of The Elements.
-* The titanite accumulated by guild members (i.e. the 3000 taerget) is shown at the bottom of the Dungeon screen.
+* The daily titanite accumulated by guild members (i.e. the 3000 taerget) is shown at the bottom of the Dungeon screen.
 * [Optimal titanite strategy](https://imgbb.com/31nVHyj)
 
 ## Emeralds
