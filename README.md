@@ -145,6 +145,9 @@ Opportunities to look for to help acheive the current priority are:
 ## Arena
 * [Game info](https://herowars.zendesk.com/hc/en-us/articles/218900067-Arena-)
 
+## Artifacts
+* [Aataifacts for new players](https://www.youtube.com/watch?v=blZZM3hn9aQ)
+
 ## Outland
 * nothing yet
 
