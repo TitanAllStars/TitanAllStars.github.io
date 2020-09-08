@@ -141,6 +141,7 @@ Opportunities to look for to help acheive the current priority are:
 * Don't barge into a running adventure without asking.  Perhaps they are trying to complete it with the minimum players.  
 * Adventures dtay open (maybe) 7 days.  (need confirmation)
 * [Video how-to](https://www.youtube.com/watch?v=54W2DtBFEfE)
+* [All the routes](https://hero-wars.fandom.com/wiki/Sanctuary) 
 
 ## Arena
 * [Game info](https://herowars.zendesk.com/hc/en-us/articles/218900067-Arena-)
